@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:blocks",
+	
+	"pools": [
+	
+		{ 	
+			"rolls":1 ,
+			"entries": [
+		{
+		"type": "minecraft:item",
+		"name": "carpeta_forge:salsayogurt"
+	
+					}
+				]
+			}
+		]
+	}

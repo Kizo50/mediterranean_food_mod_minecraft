@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        " G "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:sunflower"
+        },
+        "G": {
+            "item": "minecraft:glass_bottle"
+        }
+    },
+    "result": {
+        "item": "carpeta_forge:aceite",
+        "count": 1
+    }
+}

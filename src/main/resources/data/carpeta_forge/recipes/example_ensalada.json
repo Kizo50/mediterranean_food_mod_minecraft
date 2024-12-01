@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#P",
+        "C ",
+        "B "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:cooked_chicken"
+        },
+        "P": {
+            "item": "minecraft:potato"
+        },
+        "C": {
+            "item": "minecraft:carrot"
+        },
+        "B": {
+            "item": "minecraft:bowl"
+        }
+    },
+    "result": {
+        "item": "carpeta_forge:ensalada",
+        "count": 1
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "C",
+        "B"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:egg"
+        },
+        "C": {
+            "item": "minecraft:cooked_beef"
+        },
+        "B": {
+            "item": "minecraft:bread"
+        }
+    },
+    "result": {
+    	"item": "carpeta_forge:hamburguesa",
+    	"count": 1
+    }
+}

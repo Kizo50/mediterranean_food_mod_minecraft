@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "P"
+    ],
+    "key": {
+        "#": {
+            "item": "carpeta_forge:aceite"
+        },
+        "P": {
+            "item": "minecraft:potato"
+        }
+    },
+    "result": {
+        "item": "carpeta_forge:patatas_fritas",
+        "count": 1
+    }
+}

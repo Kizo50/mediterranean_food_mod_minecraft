@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "C",
+        "B"
+    ],
+    "key": {
+        "#": {
+            "item": "carpeta_forge:bote_salsa_yogurt"
+        },
+        "C": {
+            "item": "minecraft:cooked_chicken"
+        },
+        "B": {
+            "item": "carpeta_forge:pan_pita"
+        }
+    },
+    "result": {
+    	"item": "carpeta_forge:kebap",
+    	"count": 1
+    }
+}
